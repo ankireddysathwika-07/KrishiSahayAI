@@ -1,0 +1,6 @@
+{
+  "name": "KrishiSahay AI - Multi-Season Crop Rotation Intelligence",
+  "description": "AI-Powered Multi-Season Crop Rotation Optimization Engine balancing profit, soil health, water conservation, and disease risk across multi-year agricultural horizons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

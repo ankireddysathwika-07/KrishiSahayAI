@@ -1,0 +1,11 @@
+{
+  "name": "krishisahay-ai-launcher",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./Krishsahayy/krishisahay-ai run dev",
+    "start": "npm --prefix ./Krishsahayy/krishisahay-ai run start",
+    "build": "npm --prefix ./Krishsahayy/krishisahay-ai run build",
+    "preview": "npm --prefix ./Krishsahayy/krishisahay-ai run preview",
+    "lint": "npm --prefix ./Krishsahayy/krishisahay-ai run lint"
+  }
+}
